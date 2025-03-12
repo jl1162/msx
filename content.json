@@ -1,6 +1,0 @@
-{    
-    "name": "Start Jfmsx",
-    "version": "1.0.0",
-    "parameter": "content:https://github.com/jl1162/jfmsx/test.json",
-    "welcome": "none"
-}

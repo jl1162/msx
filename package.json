@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "http-server": "^13.0.0",
+    "jellyfin": "^0.1.2",
+    "jellyfin-apiclient": "^1.11.0"
+  }
+}
