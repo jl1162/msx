@@ -1,6 +1,0 @@
-{    
-    "name": "Start JellyfinMSX",
-    "version": "1.0.0",
-    "parameter": "content:https://jl1162.github.io/msx/data/content.json",
-    "welcome": "none"
-}
